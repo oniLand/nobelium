@@ -1,6 +1,6 @@
 const BLOG = {
-  title: 'Joe ',
-  author: 'Craig Hart',
+  title: ' Joe's Secret Base  ',
+  author: 'Joe Wang',
   email: 'blog@iceee.xyz',
   link: 'https://iceee.vercel.app',
   description: 'This gonna be an awesome website.',
@@ -17,7 +17,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://twitter.com/ice_njbk',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
