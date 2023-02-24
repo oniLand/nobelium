@@ -1,5 +1,5 @@
 const BLOG = {
-  title: ' Joe's Secret Base  ',
+  title: ' Joe\'s Secret Base  ',
   author: 'Joe Wang',
   email: 'blog@iceee.xyz',
   link: 'https://iceee.vercel.app',
